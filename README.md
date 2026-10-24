@@ -6,7 +6,11 @@ SideQuest finds one verified nearby activity that fits your class schedule, budg
 
 ## Install
 
-Text Cubbie this repository's `sidequest/` folder link on the default branch. Approve the install when Cubbie asks. Send your request as a new message after installation. Text the same folder link again after an update to fetch the latest version.
+Text Cubbie this link:
+
+https://github.com/maulik-jadav/cubbie-sidequest/tree/main/sidequest
+
+Approve the install when Cubbie asks. Send your request as a new message after installation. Text the same folder link again after an update to fetch the latest version.
 
 ## Try it
 
