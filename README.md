@@ -1,3 +1,5 @@
+![SideQuest — Turn your gap between classes into a quest.](assets/sidequest-banner.jpg)
+
 # SideQuest for Cubbie
 
 “I have 70 minutes between classes. Now what?”
